@@ -1,0 +1,15 @@
+Small android application for small event organizers to quickly generate,distribute,scan tickets.
+Possible to email tickets (in png/pdf formats) and scan tickets using the same app itself.
+Current: Offline storage in SQLite database mobile. 
+Future: Cloud syncing.
+Current Options:
+1. List Events
+2. Create Event (with Name,Venue,Time and set a password)
+3. Event > Update event 
+4. Event > Generate Tickets (Enter quantity of tickets)
+5. Event > List Tickets > Ticket info (QRCodes generated are stored 
+ as image files in external card memory).
+6. Ticket info > Delete ticket
+7. Ticket info > Send email ticket ( Send only png file or a pdf file with a sample invitation text)
+8. Event > Scan Tickets ( Scan Result - OK or KO )
+Future: Quota,Distributors,Price,Payments etc..management.
