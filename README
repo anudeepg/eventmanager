@@ -12,4 +12,10 @@ Current Options:
 6. Ticket info > Delete ticket
 7. Ticket info > Send email ticket ( Send only png file or a pdf file with a sample invitation text)
 8. Event > Scan Tickets ( Scan Result - OK or KO )
-Future: Quota,Distributors,Price,Payments etc..management.
+TODO: Screens icons customization, tests, PDF Template customization, 
+Integrating google maps for venue, Sharing Social (Pushing to google calendar 
+or facebook event or twitter tweet), Integrating with Contacts API to send email.
+Test: EventManager.apk is available inside /bin folder for testing on android devices.
+Can be downloaded directly from mobile using link below:
+https://github.com/anudeepg/eventmanager/blob/master/bin/EventManager.apk
+Future: Quota,Distributors,Price,Payments,Advanced customizations etc and Support for iOS or HTML5.
